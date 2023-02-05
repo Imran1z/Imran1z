@@ -1,4 +1,4 @@
-![logo](https://github.com/Imran1z/Imran1z/blob/main/adi-goldstein-EUsVwEOsblE-unsplash.jpg)
+![logo](https://github.com/Imran1z/Imran1z/blob/main/Imran.jpg)
 <h1 align="center">Hi 👋, I'm Imran Ahmed</h1>
 
 <h3 align="center">I am a dedicated and passionate Android developer who is always eager to learn and grow in the field</h3>
